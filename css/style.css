@@ -36,8 +36,10 @@ a {
 }
 
 .logo {
-  height: 90px;
-  filter: drop-shadow(0 0 6px rgba(0,0,0,0.4));
+  height: 95px;
+  width: auto;
+  display: block;
+  filter: drop-shadow(0 0 6px rgba(0,0,0,0.35));
 }
 
 .site-nav {
