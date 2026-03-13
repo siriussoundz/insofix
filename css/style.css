@@ -27,7 +27,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 18px 40px;
+  padding: 12px 40px;
   background: #0d0d0d;
   border-bottom: 1px solid rgba(255,255,255,0.08);
   position: sticky;
@@ -36,7 +36,7 @@ a {
 }
 
 .logo {
-  height: 60px;
+  height: 90px;
   width: auto;
 }
 
