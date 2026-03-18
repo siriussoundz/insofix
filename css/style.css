@@ -43,7 +43,7 @@ a {
 }
 
 .logo {
-  height: 90px;
+  height: 66px;
   width: auto;
   filter: drop-shadow(0 0 6px rgba(0,0,0,0.35));
 }
@@ -246,7 +246,7 @@ a {
 
   .logo {
     height: 72px;
-  }
+  }  
 
   .intro-grid,
   .feature-grid,
