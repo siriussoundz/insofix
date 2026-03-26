@@ -136,6 +136,13 @@ a {
   transition: transform .2s ease, opacity .2s ease;
 }
 
+.button {
+  display: inline-block;
+  text-align: center;
+  white-space: normal;
+  word-break: break-word;
+}
+
 .button:hover {
   transform: translateY(-2px);
   opacity: .95;
@@ -144,6 +151,13 @@ a {
 .button-secondary {
   background: rgba(255,255,255,0.12);
   border: 1px solid rgba(255,255,255,0.2);
+}
+
+@media (max-width: 768px) {
+  .cta-box .button {
+    width: 100%;
+    margin-top: 10px;
+  }
 }
 
 /* SECTIONS */
